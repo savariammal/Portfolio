@@ -1,0 +1,35 @@
+body{
+    display:inline-block;
+	height:300px;
+	width:90%;
+	background-color:blue;	
+	margin-left:100px;
+	border:dotted 10px red;
+	
+}
+h1{
+	float:top;
+	font-size:30px;
+	background:pink;
+	height:30px;
+	width:250px;
+	padding-bottom:3px;
+	margin-left:380px;
+	border-radius:10px 2px;
+	border-color:red;
+}  
+.aud{
+	margin-left:50px;	
+	margin-bottom:100px;
+	width:250px;
+}
+.vid{
+	height:200px;
+	width:250px;
+   margin-left:50px;	
+}
+.yt{
+	height:200px;
+	width:300px;
+	margin-left:100px;	
+}

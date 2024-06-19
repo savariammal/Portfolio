@@ -1,0 +1,31 @@
+caption{
+background-color:rgba(0,45,170,0.5);
+font-size:30px;
+border-radius:5px;
+margin-bottom:10px;
+
+
+}
+table{
+	background-color:pink;
+	text-align:center;
+	
+}
+.outer{
+	height:40px;width:300px;
+	margin:2px;
+	background-color:blue;
+	padding:1px;
+	text-align:center;
+	margin-top:5px;
+	border-radius:10px;
+	margin-left:50px;
+
+}
+.outer>p{
+	text-align:center;
+   	
+
+}
+
+
